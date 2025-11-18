@@ -24,6 +24,7 @@ https://github.com/BrenneckeLab/Plot_figures_for_OSC-genome_Publication
 ----
 
 ## Repositories related to the assembly of the OSC genome
+**Listed in the order of execution.**
 
 Pipeline for preparing input reads and generating the raw OSC genome assembly using Shasta.
 
@@ -31,6 +32,11 @@ https://github.com/BrenneckeLab/OSC-genome_shasta-assembly
 
 ---
 
+Pipeline to purge haplotigs to generate a single-copy genome with accurate coverage representation.
+
+https://github.com/BrenneckeLab/OSC-genome_purge-haplotigs
+
+---
 Repositories are in the process of being curated for publication. 
 
 In case you require early-access please contact: dominik.handler@imba.oeaw.ac.at
