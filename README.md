@@ -37,9 +37,21 @@ Pipeline to purge haplotigs to generate a single-copy genome with accurate cover
 https://github.com/BrenneckeLab/OSC-genome_purge-haplotigs
 
 ---
-Repositories are in the process of being curated for publication. 
 
-In case you require early-access please contact: dominik.handler@imba.oeaw.ac.at
+Pipeline to scaffold assembly contigs using HiC contact information.
 
+https://github.com/BrenneckeLab/OSC-genome_scaffold-HiC
+
+---
+
+
+## Contact
+
+For questions or additional information, please contact:
+dominik.handler@imba.oeaw.ac.at
+
+## License
+
+MIT License
 
 
