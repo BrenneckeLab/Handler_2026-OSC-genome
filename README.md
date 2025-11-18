@@ -58,7 +58,11 @@ https://github.com/BrenneckeLab/OSC-genome_insert-heterozygous-TEs
 
 ## Repositories to evaluate the genome and to create the final UCSC genome browser hub
 
+Pipeline for creating a UCSC Genome Browser Assembly Hub from the OSC genome, including annotation tracks, repeat tracks, and other genomic features.
 
+https://github.com/BrenneckeLab/OSC-genome_prepare-UCSC-assemblyHub
+
+---
 ## Contact
 
 For questions or additional information, please contact:
