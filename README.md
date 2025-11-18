@@ -50,6 +50,15 @@ https://github.com/BrenneckeLab/OSC-genome_scaffold-HiC
 
 ---
 
+Pipeline for re-inserting heterozygous transposable elements (TEs) that were removed during haplotig purging but are present in the OSC cell genome.
+
+https://github.com/BrenneckeLab/OSC-genome_insert-heterozygous-TEs
+
+---
+
+## Repositories to evaluate the genome and to create the final UCSC genome browser hub
+
+
 ## Contact
 
 For questions or additional information, please contact:
