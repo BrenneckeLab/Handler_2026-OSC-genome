@@ -44,6 +44,11 @@ https://github.com/BrenneckeLab/OSC-genome_scaffold-HiC
 
 ---
 
+Pipeline for filling scaffold gaps in the Hi-C scaffolded OSC genome using Oxford Nanopore Technologies (ONT) long-read data.
+
+https://github.com/BrenneckeLab/OSC-genome_scaffold-HiC
+
+---
 
 ## Contact
 
